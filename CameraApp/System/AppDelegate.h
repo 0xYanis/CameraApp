@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  AppDelegate.h
 //  CameraApp
 //
 //  Created by Yanis on 28.03.2024.
@@ -7,8 +7,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
-
+@interface AppDelegate : UIResponder <UIApplicationDelegate>
 @end
 
