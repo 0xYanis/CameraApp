@@ -1,3 +1,3 @@
 # CameraApp
 
-Приложение камера с AVFoundation на Objective-C.
+Приложение-Камера с AVFoundation на Objective-C.
